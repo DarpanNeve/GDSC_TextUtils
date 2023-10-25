@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GDSC_TextUtils/static/css/main.c2a5d421.css",
+    "main.js": "/GDSC_TextUtils/static/js/main.6290bb5e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GDSC_TextUtils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/GDSC_TextUtils/index.html",
+    "main.c2a5d421.css.map": "/GDSC_TextUtils/static/css/main.c2a5d421.css.map",
+    "main.6290bb5e.js.map": "/GDSC_TextUtils/static/js/main.6290bb5e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GDSC_TextUtils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a5d421.css",
+    "static/js/main.6290bb5e.js"
+  ]
+}
